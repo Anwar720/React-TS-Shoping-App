@@ -1,11 +1,11 @@
 {
-  "homepage":"http://Anwar720.github.io/React-TS-Shoping-App",
+  "homepage":"https://Anwar720.github.io/React-TS-Shoping-App",
   "name": "react-shooping",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy":"gh-pages -d build",
     "dev": "vite",
     "build": "tsc && vite build",
