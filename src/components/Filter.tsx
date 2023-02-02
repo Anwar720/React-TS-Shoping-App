@@ -78,7 +78,7 @@ export const Filter:FC<IsetFilter> = (props:IsetFilter) => {
                         <FontAwesomeIcon icon={faCaretDown} />
                     </span>
                     <div className="filter-section">
-                        <div className="price-indicator" > upto: ${currentPrice}</div>
+                        <div className="price-indicator" > Max Price: ${currentPrice}</div>
                         <input type="range" step={5} ref={priceFilter} onChange={(e)=>setCurrentPrice(price=> parseInt(e.target.value))} min={0}  max={2000} defaultValue={0} id="filter-price" />
                     </div>
                 </label>
