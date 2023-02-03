@@ -1,49 +1,49 @@
 {
     "iPhone 14":{
         "name":"iPhone 14",
-        "image":"../../public/images/iphone_14.jpeg",
+        "image":"iphone_14.jpeg",
         "price":799,
         "type":"iphone"
     },
     "iPhone 14 Pro":{
         "name":"iPhone 14 Pro",
-        "image":"../../public/images/phone_14_pro.jpeg",
+        "image":"phone_14_pro.jpeg",
         "price":999,
         "type":"iphone"
     },
     "iPhone 13":{
         "name":"iPhone 13",
-        "image":"../../public/images/phone_13.jpeg",
+        "image":"phone_13.jpeg",
         "price":599,
         "type":"iphone"
     },
     "iPhone SE":{
         "name":"iPhone SE",
-        "image":"../../public/images/iphone_se.jpeg",
+        "image":"iphone_se.jpeg",
         "price":429,
         "type":"iphone"
     },
     "MacBook Air M1":{
         "name":"MacBook Air M1",
-        "image":"../../public/images/macbook.png",
+        "image":"macbook.png",
         "price":999,
         "type":"mac"
     },
     "MacBook Air M2":{
         "name":"MacBook Air M2",
-        "image":"../../public/images/macbook.png",
+        "image":"macbook.png",
         "price":1199,
         "type":"mac"
     },
     "MacBook Pro 13":{
         "name":"MacBook Pro 13",
-        "image":"../../public/images/mac_pro_13.png",
+        "image":"mac_pro_13.png",
         "price":1299,
         "type":"mac"
     },
     "MacBook Pro 14":{
         "name":"MacBook Pro 14",
-        "image":"../../public/images/mac_pro_14.jpeg",
+        "image":"mac_pro_14.jpeg",
         "price":1999,
         "type":"mac"
     }
