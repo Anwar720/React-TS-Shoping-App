@@ -18,7 +18,7 @@ type product = {
 const CartItem:FC<product> = (props:product) => {
     return (
         <div className='cart-item'>
-            <img height="100" src={props.product.image} alt="" />
+            <img height="100" src={'../images/'+props.product.image} alt="" />
             <div className="item-column">
                 <p>{props.product.name}</p>
                 <div className="item-controls">
