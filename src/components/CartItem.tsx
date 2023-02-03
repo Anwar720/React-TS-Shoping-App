@@ -18,7 +18,7 @@ type product = {
 const CartItem:FC<product> = (props:product) => {
     return (
         <div className='cart-item'>
-            <img height="100" src={'../images/'+props.product.image} alt="" />
+            <img height="100" src={'./images/'+props.product.image} alt="" />
             <div className="item-column">
                 <p>{props.product.name}</p>
                 <div className="item-controls">
@@ -26,7 +26,7 @@ const CartItem:FC<product> = (props:product) => {
                     <p className="quantity">{props.quantity}</p>
                     <p className='control-btn' onClick={()=>props.addToCart(props.product.name)}><FontAwesomeIcon icon={faPlus}/> </p>
                 </div>
-                <p>price: {props.product.price}</p>
+                <p>price: ${props.product.price}</p>
             </div>
 
         </div>

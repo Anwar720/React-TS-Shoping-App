@@ -1,25 +1,25 @@
 {
     "iPhone 14":{
         "name":"iPhone 14",
-        "image":"iphone_14.jpeg",
+        "image":"iphone_14.png",
         "price":799,
         "type":"iphone"
     },
     "iPhone 14 Pro":{
         "name":"iPhone 14 Pro",
-        "image":"phone_14_pro.jpeg",
+        "image":"phone_14_pro.png",
         "price":999,
         "type":"iphone"
     },
     "iPhone 13":{
         "name":"iPhone 13",
-        "image":"phone_13.jpeg",
+        "image":"phone_13.png",
         "price":599,
         "type":"iphone"
     },
     "iPhone SE":{
         "name":"iPhone SE",
-        "image":"iphone_se.jpeg",
+        "image":"iphone_se.png",
         "price":429,
         "type":"iphone"
     },
@@ -43,7 +43,7 @@
     },
     "MacBook Pro 14":{
         "name":"MacBook Pro 14",
-        "image":"mac_pro_14.jpeg",
+        "image":"mac_pro_14.png",
         "price":1999,
         "type":"mac"
     }

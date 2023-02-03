@@ -17,7 +17,7 @@ export const ProductCard:FC<Iproduct> = (props:Iproduct)=> {
     return (
         <div className='product-card'>
             <div className="card-img">
-                <img src={'../images/'+props.product.image} height="130"  alt="product img" />
+                <img src={'./images/'+props.product.image} height="130"  alt="product img" />
             </div>
             <div className="product-info">
                 <p className='card-title'>{props.product.name}</p>
