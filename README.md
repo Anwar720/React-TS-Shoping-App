@@ -13,4 +13,4 @@ Shopping App built using React and Typescript. Browse through items, filter resu
     npm run dev
     ```
 
-### View page live by clicking [here](https://anwar720.github.io/React-TS-Shoping-App/)
+### View page live by clicking [here](https://anwar720.github.io/React-TS-Shopping-App/)
