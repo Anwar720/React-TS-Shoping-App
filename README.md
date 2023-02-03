@@ -1,6 +1,6 @@
-# React-TS-Shoping-App
+# React-TS-Shopping-App
 
-Shoping App built using React and Typescript. Browse through items, filter results and add items to shoping cart.
+Shopping App built using React and Typescript. Browse through items, filter results and add items to shoping cart.
 
 ## Installation
 1. Clone repo 
